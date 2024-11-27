@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Cultivating my programming skills**
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **C** and **Cybersec ---> target: pentesting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Norkysgc](https://github.com/Norkysgc) **Currently I have to upload projects I´ve worked on, I´ll do it soon enough 😅**
 
