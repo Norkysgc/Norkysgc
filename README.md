@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Norkys Andrea González Corredor</h1>
-<h3 align="center">A passionate Front End Developer Junior from Spain</h3>
+<h3 align="center">A passionate Front End Developer Junior and Cybersecurity Analyst in the making from Spain</h3>
 
 - 🔭 I’m currently working on **Developing a Repo to showcase my proficiency in C and soon will do the same with Python**
 
