@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Norkys Andrea González Corredor</h1>
 <h3 align="center">A passionate Front End Developer Junior from Spain</h3>
 
-- 🔭 I’m currently working on **Cultivating my programming skills**
+- 🔭 I’m currently working on **Developing a Repo to showcase my proficiency in C and soon will do the same with Python**
 
-- 🌱 I’m currently learning **C** and **Cybersec ---> target: pentesting**
+- 🌱 I’m currently learning **C** and **CCT from EC Council and studying to take my first Cert exam from Cisco ---> target: pentesting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Norkysgc](https://github.com/Norkysgc) **Currently I have to upload projects I´ve worked on, I´ll do it soon enough 😅**
 
-- 💬 Ask me about **HTML, CSS, Boostrap, JavaScript, Python and SQL.**
+- 💬 Ask me about **Cybersecurity**
 
 - 📫 How to reach me **norkysgc@icloud.com**
 
